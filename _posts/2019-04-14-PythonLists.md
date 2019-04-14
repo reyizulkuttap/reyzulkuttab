@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İlk Post
+title: ilk Post
 ---
 
 Denemetest123

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+title: A Trip
 ---
 
 deneme
